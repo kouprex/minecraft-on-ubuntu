@@ -12,6 +12,7 @@
    These intials are used to determine a unique name for the storage account. For storage account names,
    you must use all lower case letters or numbers. No hyphens or other characters are allowed.
 
+email: geeko1@outlook.com
    
 #> 
 
