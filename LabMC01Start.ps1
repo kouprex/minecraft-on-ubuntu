@@ -13,6 +13,7 @@
    you must use all lower case letters or numbers. No hyphens or other characters are allowed.
 
 email: geeko1@outlook.com
+mc2411k.southeastasia.cloudapp.azure.com
    
 #> 
 
